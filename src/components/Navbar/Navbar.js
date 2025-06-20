@@ -248,7 +248,7 @@ function Navbar() {
         </NavItems>
       
       <ButtonContainer>
-        <GitHubButton> GitHub profile</GitHubButton>
+        <GitHubButton href={Bio.github}> GitHub profile</GitHubButton>
       </ButtonContainer>
 
       {
